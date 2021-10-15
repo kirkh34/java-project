@@ -1,0 +1,3 @@
+00001,Kirk Hoey,10/13/2021,11/01/2021,T-shirts,Full Front,White/Red/Green,30,$375,Individually Bagged
+00002,Jane Doe,10/02/2021,10/17/2021,Hoodies,Left Chest,Blue/White,24,$175,Ship ASAP
+00003,Mike Day,10/13/2021,10/21/2021,Pants,Left Leg,White,12,$120,Need by game day 10/22

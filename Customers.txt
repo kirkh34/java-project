@@ -1,0 +1,3 @@
+00001,John,Doe,Apple,123 Easy St,Scranton,PN,86343,322-233-2342,johndoe@gmail.com
+00002,Jane,Doe,Amazon,123 Prime St,Cupertino,CA,850002,253-234-3242,jane@amazon.com
+00003,Joe,Smith,Walmart,123 Street,Goodcity,IN,47371,765-342-3242,jsmith@gmail.com

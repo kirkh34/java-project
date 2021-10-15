@@ -1,0 +1,3 @@
+00001,Kirk,Hoey,232 Woodlawn,Richmond,IN,47374,7654629722,kirkhoey@gmail.com,30000,01/01/2011,PRINTER
+00002,Jim,Johnson,134 Main Street,Indianapolis,IN,46241,317-343-23423,jjohnson@gmail.com,32000,10/10/2021,SHIPPING
+00003,Jerry,Barber,13 Elm Street,Richmond,IN,47374,7532322333,jbone@gmail.com,35000,01/20/2018,SALES
